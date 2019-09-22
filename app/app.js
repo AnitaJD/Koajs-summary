@@ -1,4 +1,7 @@
 import Koa from 'koa';
+import connectorInit from './connectors';
+
+connectorInit();
 
 const app = new Koa();
 
