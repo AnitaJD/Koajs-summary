@@ -27,7 +27,7 @@
     "dotenv": "^8.1.0",
     "keymirror": "^0.1.1",
     "koa": "^2.8.1",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.8",
     "nodemon": "^1.19.2",
     "process": "^0.11.10"
   }
